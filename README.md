@@ -9,7 +9,7 @@ after that add that local server host to ```lib/client/api_client.dart```
 
 
 
-Mockoon mock data file to create a internal server & routes
+export below json data to the mockoon to get the envoirnment & routes
 
 ```json
 
