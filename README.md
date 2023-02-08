@@ -4,6 +4,11 @@ Sample project is about session management using an API.
 
 ## Getting Started
 
+
+I am using Dio dependecy for network request & session managements,
+
+## Configurations
+
 First of all configure your mockoon server with below json file.
 after that add that local server host to ```lib/client/api_client.dart```
 
