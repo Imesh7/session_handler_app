@@ -4,18 +4,12 @@ Sample project is about session management using an API.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+First of all configure your mockoon server with below json file.
+after that add that local server host to ```lib/client/api_client.dart```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-Mockoon mock data file to create a internal server & routes to check Session
+Mockoon mock data file to create a internal server & routes
 
 ```json
 
@@ -241,3 +235,16 @@ Mockoon mock data file to create a internal server & routes to check Session
 }
 
 ```
+
+
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
