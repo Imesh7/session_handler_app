@@ -8,12 +8,12 @@ class ApiClient {
   Dio refreshToken = Dio();
 
   setBaseOptons() {
-    dio.options.baseUrl = "http://185.239.208.29:8000/api";
+    dio.options.baseUrl = "http://HOSTNAME/api";
     dio.options.connectTimeout = 5000;
     dio.options.receiveTimeout = 5000;
     dio.options.sendTimeout = 2000;
 
-   refreshToken.options.baseUrl = "http://192.168.1.18:3001";
+   refreshToken.options.baseUrl = "http://MOCKOONHOSTNAME";
     refreshToken.options.connectTimeout = 5000;
     refreshToken.options.receiveTimeout = 5000;
     refreshToken.options.sendTimeout = 2000; 
