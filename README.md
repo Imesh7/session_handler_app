@@ -1,4 +1,4 @@
-# session_handling_flutter
+# Session Handling Example App
 
 Sample project is about session management using an API.
 
