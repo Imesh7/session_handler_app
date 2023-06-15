@@ -5,7 +5,7 @@ Sample project is about session management using an API.
 ## Getting Started
 
 
-I am using Dio dependecy for network request & session managements,
+I am using Dio package for network request & session management.
 
 ## Configurations
 
