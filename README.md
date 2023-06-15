@@ -6,6 +6,7 @@ Sample project is about session management using an API.
 
 
 I am using Dio package for network request & session management.
+used Provider package for state management
 
 ## Configurations
 
